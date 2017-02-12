@@ -1,0 +1,9 @@
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe.config
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\bin\Debug\primeNumbers.exe
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\bin\Debug\primeNumbers.pdb
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csprojResolveAssemblyReference.cache
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\obj\Debug\primeNumbers.Form1.resources
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\obj\Debug\primeNumbers.Properties.Resources.resources
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\obj\Debug\primeNumbers.csproj.GenerateResource.Cache
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\obj\Debug\primeNumbers.exe
+c:\users\sea of trees\documents\visual studio 2017\Projects\primeNumbers\primeNumbers\obj\Debug\primeNumbers.pdb
