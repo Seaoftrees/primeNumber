@@ -51,8 +51,8 @@
             this.numericUpDown1.Font = new System.Drawing.Font("MS UI Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.numericUpDown1.Location = new System.Drawing.Point(139, 81);
             this.numericUpDown1.Maximum = new decimal(new int[] {
-            1569325056,
-            23283064,
+            -1981284352,
+            -1966660860,
             0,
             0});
             this.numericUpDown1.Minimum = new decimal(new int[] {

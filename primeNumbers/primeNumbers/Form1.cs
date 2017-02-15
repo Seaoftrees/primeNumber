@@ -54,8 +54,15 @@ namespace primeNumbers
             //もし、for処理の中で割り切れる数字があったとき(=notPrimeNumberにtrueが代入されているとき)
             if (notPrimeNumber)
             {
-                //つまり、素数でないとき
-                label3.Text = "結果: 入力された数字は「素数ではありません！」( " + pp.ToString() + " で割り切れます)";
+                if(subject == 2)
+                {
+                    label3.Text = "結果: 入力された数字は「素数です！」";
+                }
+                else
+                {
+                    //つまり、素数でないとき
+                    label3.Text = "結果: 入力された数字は「素数ではありません！」( " + pp.ToString() + " で割り切れます)";
+                }
             }
             else if(subject == 1)   //そうでない場合に入力された数字が 1 のとき
             {
